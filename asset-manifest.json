@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-ecom-repo/static/css/main.1ff41244.css",
+    "main.js": "/my-ecom-repo/static/js/main.98951804.js",
+    "index.html": "/my-ecom-repo/index.html",
+    "main.1ff41244.css.map": "/my-ecom-repo/static/css/main.1ff41244.css.map",
+    "main.98951804.js.map": "/my-ecom-repo/static/js/main.98951804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff41244.css",
+    "static/js/main.98951804.js"
+  ]
+}
